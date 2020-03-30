@@ -62,3 +62,5 @@ namespace DevOpsVault.SDK.Example
     }
 }
 ```
+
+If you just want to use the package and not build it, you can also include it via nuget from the [published feed](https://www.nuget.org/packages/DevOpsVault.SDK.Core)
